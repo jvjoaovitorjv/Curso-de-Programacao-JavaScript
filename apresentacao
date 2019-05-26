@@ -1,0 +1,5 @@
+var nome = " João Vitor"
+var idade = 18
+
+console.log(" meu nome é" + nome )
+console.log(" tenho " + idade + " anos de idade.")
