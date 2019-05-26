@@ -1,2 +1,7 @@
 # aula03
-primeiro código 
+primeiro código **teste** fsd
+
+```javascript
+console.log("texto")
+
+```
